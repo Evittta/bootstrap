@@ -1,0 +1,8 @@
+#intro {
+    background-image: url(../img/flowers.jpg);
+    background-size: cover;
+}
+
+#carousel-inner div{
+    min-height: 1800px;
+}
